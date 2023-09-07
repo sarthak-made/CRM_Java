@@ -1,0 +1,5 @@
+package com.crunchify.controller.CustomerPOJO;
+
+public class Customer {
+
+}

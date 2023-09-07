@@ -1,0 +1,5 @@
+package com.crunchify.controller.DAO;
+
+public interface CustomerDAO {
+
+}

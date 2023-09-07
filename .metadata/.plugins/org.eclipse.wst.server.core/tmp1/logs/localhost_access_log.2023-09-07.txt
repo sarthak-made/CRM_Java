@@ -1,0 +1,13 @@
+127.0.0.1 - - [07/Sep/2023:22:12:21 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Sep/2023:22:12:28 +0530] "GET /CrunchifySpringMVCTutorial/addCUstomers.html HTTP/1.1" 404 799
+0:0:0:0:0:0:0:1 - - [07/Sep/2023:22:12:32 +0530] "GET /CrunchifySpringMVCTutorial/index.html HTTP/1.1" 200 5789
+0:0:0:0:0:0:0:1 - - [07/Sep/2023:22:12:33 +0530] "GET /CrunchifySpringMVCTutorial/addCustomers.html HTTP/1.1" 200 2403
+0:0:0:0:0:0:0:1 - - [07/Sep/2023:22:12:34 +0530] "GET /CrunchifySpringMVCTutorial/viewCustomers.html HTTP/1.1" 200 2697
+0:0:0:0:0:0:0:1 - - [07/Sep/2023:22:12:36 +0530] "GET /CrunchifySpringMVCTutorial/index.html HTTP/1.1" 200 5789
+0:0:0:0:0:0:0:1 - - [07/Sep/2023:22:12:36 +0530] "GET /CrunchifySpringMVCTutorial/viewCustomers.html HTTP/1.1" 200 2697
+0:0:0:0:0:0:0:1 - - [07/Sep/2023:22:12:38 +0530] "GET /CrunchifySpringMVCTutorial/addCustomers.html HTTP/1.1" 200 2403
+0:0:0:0:0:0:0:1 - - [07/Sep/2023:22:12:38 +0530] "GET /CrunchifySpringMVCTutorial/addCustomers.html HTTP/1.1" 200 2403
+0:0:0:0:0:0:0:1 - - [07/Sep/2023:22:12:39 +0530] "GET /CrunchifySpringMVCTutorial/index.html HTTP/1.1" 200 5789
+0:0:0:0:0:0:0:1 - - [07/Sep/2023:22:12:39 +0530] "GET /CrunchifySpringMVCTutorial/viewCustomers.html HTTP/1.1" 200 2697
+0:0:0:0:0:0:0:1 - - [07/Sep/2023:22:12:40 +0530] "GET /CrunchifySpringMVCTutorial/addCustomers.html HTTP/1.1" 200 2403
+0:0:0:0:0:0:0:1 - - [07/Sep/2023:22:12:40 +0530] "GET /CrunchifySpringMVCTutorial/addCustomers.html HTTP/1.1" 200 2403

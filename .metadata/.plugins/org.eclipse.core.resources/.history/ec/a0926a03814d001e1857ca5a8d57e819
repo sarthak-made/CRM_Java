@@ -1,0 +1,15 @@
+package com.crunchify.controller.DAO;
+
+import java.util.List;
+
+import com.crunchify.controller.CustomerPOJO.Customer;
+
+public class CustomerDAOImplementation implements CustomerDAO {
+
+	@Override
+	public List<Customer> loadCustomers() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.crunchify.controller.hibernate;
+
+/**
+ * @author DELL
+ *
+ */
+public class HibnateUtil {
+
+}
